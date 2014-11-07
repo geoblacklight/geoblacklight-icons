@@ -1,0 +1,91 @@
+{
+  "checksum": {
+    "previous": "7cd1d7d9056b8e43c3f20c9683710502ce13fef0bf30d29d8e46b629242a9faf",
+    "current": "7cd1d7d9056b8e43c3f20c9683710502ce13fef0bf30d29d8e46b629242a9faf"
+  },
+  "fonts": [
+    "app/assets/fonts/geoblacklight.ttf",
+    "app/assets/fonts/geoblacklight.svg",
+    "app/assets/fonts/geoblacklight.woff",
+    "app/assets/fonts/geoblacklight.eot"
+  ],
+  "glyphs": {
+    "berkeley": {
+      "codepoint": 61697,
+      "source": "graphics/berkeley.svg"
+    },
+    "harvard": {
+      "codepoint": 61699,
+      "source": "graphics/harvard.svg"
+    },
+    "image": {
+      "codepoint": 61706,
+      "source": "graphics/image.svg"
+    },
+    "line": {
+      "codepoint": 61704,
+      "source": "graphics/line.svg"
+    },
+    "massgis": {
+      "codepoint": 61702,
+      "source": "graphics/massgis.svg"
+    },
+    "mit": {
+      "codepoint": 61700,
+      "source": "graphics/mit.svg"
+    },
+    "paper-map": {
+      "codepoint": 61712,
+      "source": "graphics/paper-map.svg"
+    },
+    "point": {
+      "codepoint": 61705,
+      "source": "graphics/point.svg"
+    },
+    "polygon": {
+      "codepoint": 61703,
+      "source": "graphics/polygon.svg"
+    },
+    "raster": {
+      "codepoint": 61709,
+      "source": "graphics/raster.svg"
+    },
+    "stanford": {
+      "codepoint": 61698,
+      "source": "graphics/stanford.svg"
+    },
+    "tufts": {
+      "codepoint": 61701,
+      "source": "graphics/tufts.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".geoblacklight-{{glyph}}",
+    "debug": false,
+    "font_name": "geoblacklight",
+    "force": false,
+    "input": {
+      "templates": "graphics",
+      "vectors": "graphics"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "app/assets/stylesheets",
+      "fonts": "app/assets/fonts",
+      "preview": "app/views/styleguide"
+    },
+    "preprocessor_path": "",
+    "quiet": false,
+    "skip_first": false,
+    "templates": [
+      "scss",
+      "preview"
+    ]
+  },
+  "templates": [
+    "app/assets/stylesheets/_geoblacklight.scss",
+    "app/views/styleguide/geoblacklight-preview.html"
+  ]
+}
