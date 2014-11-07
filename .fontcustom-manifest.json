@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7cd1d7d9056b8e43c3f20c9683710502ce13fef0bf30d29d8e46b629242a9faf",
-    "current": "7cd1d7d9056b8e43c3f20c9683710502ce13fef0bf30d29d8e46b629242a9faf"
+    "previous": "431ac94d6fe55fb8ba47683594c2c85620cad8a3ea6b6af6eea2be8ec72ee03b",
+    "current": "431ac94d6fe55fb8ba47683594c2c85620cad8a3ea6b6af6eea2be8ec72ee03b"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight.ttf",
@@ -64,6 +64,10 @@
     "config": "fontcustom.yml",
     "css_selector": ".geoblacklight-{{glyph}}",
     "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
     "font_name": "geoblacklight",
     "force": false,
     "input": {
