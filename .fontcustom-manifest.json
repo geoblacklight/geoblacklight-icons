@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "431ac94d6fe55fb8ba47683594c2c85620cad8a3ea6b6af6eea2be8ec72ee03b",
-    "current": "431ac94d6fe55fb8ba47683594c2c85620cad8a3ea6b6af6eea2be8ec72ee03b"
+    "previous": "cc381b9eb554c03a980ac0cc774e030f72a615c21b50d73f13e402e5c1aa6178",
+    "current": "cc381b9eb554c03a980ac0cc774e030f72a615c21b50d73f13e402e5c1aa6178"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight.ttf",
@@ -82,7 +82,6 @@
     },
     "preprocessor_path": "",
     "quiet": false,
-    "skip_first": false,
     "templates": [
       "scss",
       "preview"
