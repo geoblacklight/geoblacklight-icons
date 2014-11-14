@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "cc381b9eb554c03a980ac0cc774e030f72a615c21b50d73f13e402e5c1aa6178",
-    "current": "cc381b9eb554c03a980ac0cc774e030f72a615c21b50d73f13e402e5c1aa6178"
+    "previous": "ae9e40e436eac2cacfc095a4015997f5a5fe5dbedb16daab7359e2090ed87a06",
+    "current": "ae9e40e436eac2cacfc095a4015997f5a5fe5dbedb16daab7359e2090ed87a06"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight.ttf",
@@ -45,6 +45,10 @@
     "polygon": {
       "codepoint": 61703,
       "source": "graphics/polygon.svg"
+    },
+    "princeton": {
+      "codepoint": 61713,
+      "source": "graphics/princeton.svg"
     },
     "raster": {
       "codepoint": 61709,
