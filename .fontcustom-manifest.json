@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ae9e40e436eac2cacfc095a4015997f5a5fe5dbedb16daab7359e2090ed87a06",
-    "current": "ae9e40e436eac2cacfc095a4015997f5a5fe5dbedb16daab7359e2090ed87a06"
+    "previous": "72fdefdb7a859f613acb0f5a3f7afe625510987dd1cd40a49818ebbe3f24cc2a",
+    "current": "72fdefdb7a859f613acb0f5a3f7afe625510987dd1cd40a49818ebbe3f24cc2a"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight.ttf",
@@ -13,6 +13,18 @@
     "berkeley": {
       "codepoint": 61697,
       "source": "graphics/berkeley.svg"
+    },
+    "cd-rom": {
+      "codepoint": 61714,
+      "source": "graphics/cd-rom.svg"
+    },
+    "columbia": {
+      "codepoint": 61717,
+      "source": "graphics/columbia.svg"
+    },
+    "dvd-rom": {
+      "codepoint": 61715,
+      "source": "graphics/dvd-rom.svg"
     },
     "harvard": {
       "codepoint": 61699,
@@ -29,6 +41,10 @@
     "massgis": {
       "codepoint": 61702,
       "source": "graphics/massgis.svg"
+    },
+    "minnesota": {
+      "codepoint": 61718,
+      "source": "graphics/minnesota.svg"
     },
     "mit": {
       "codepoint": 61700,
@@ -61,6 +77,10 @@
     "tufts": {
       "codepoint": 61701,
       "source": "graphics/tufts.svg"
+    },
+    "ucla": {
+      "codepoint": 61719,
+      "source": "graphics/ucla.svg"
     }
   },
   "options": {
