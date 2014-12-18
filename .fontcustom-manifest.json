@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "398383345f4aab813b0537201b1fbf118f902a99edeef1ff0e4ed774cd1b8611",
-    "current": "398383345f4aab813b0537201b1fbf118f902a99edeef1ff0e4ed774cd1b8611"
+    "previous": "b72bb767d22aeefcd43f980dd3f96c338751d2ae68e8a4957c758d5f097d3a02",
+    "current": "b72bb767d22aeefcd43f980dd3f96c338751d2ae68e8a4957c758d5f097d3a02"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight.ttf",
@@ -93,6 +93,10 @@
     "ucla": {
       "codepoint": 61719,
       "source": "graphics/ucla.svg"
+    },
+    "uva": {
+      "codepoint": 61723,
+      "source": "graphics/uva.svg"
     }
   },
   "options": {
