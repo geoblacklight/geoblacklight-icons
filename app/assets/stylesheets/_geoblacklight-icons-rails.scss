@@ -1,0 +1,83 @@
+//
+// Icon Font: geoblacklight-icons
+//
+
+@font-face {
+  font-family: "geoblacklight-icons";
+  src: font-url("geoblacklight-icons.eot");
+  src: font-url("geoblacklight-icons.eot?#iefix") format("embedded-opentype"),
+       font-url("geoblacklight-icons.woff") format("woff"),
+       font-url("geoblacklight-icons.ttf") format("truetype"),
+       font-url("geoblacklight-icons.svg#geoblacklight-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "geoblacklight-icons";
+    src: font-url("geoblacklight-icons.svg#geoblacklight-icons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.geoblacklight-berkeley:before,
+.geoblacklight-cd-rom:before,
+.geoblacklight-columbia:before,
+.geoblacklight-dvd-rom:before,
+.geoblacklight-harvard:before,
+.geoblacklight-image:before,
+.geoblacklight-line:before,
+.geoblacklight-massgis:before,
+.geoblacklight-minnesota:before,
+.geoblacklight-mit:before,
+.geoblacklight-mixed:before,
+.geoblacklight-multipoint:before,
+.geoblacklight-paper-map:before,
+.geoblacklight-point:before,
+.geoblacklight-polygon:before,
+.geoblacklight-polyline:before,
+.geoblacklight-princeton:before,
+.geoblacklight-raster:before,
+.geoblacklight-stanford:before,
+.geoblacklight-tufts:before,
+.geoblacklight-ucla:before,
+.geoblacklight-uva:before {
+  display: inline-block;
+  font-family: "geoblacklight-icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.geoblacklight-berkeley:before { content: "\f101"; }
+.geoblacklight-cd-rom:before { content: "\f112"; }
+.geoblacklight-columbia:before { content: "\f115"; }
+.geoblacklight-dvd-rom:before { content: "\f113"; }
+.geoblacklight-harvard:before { content: "\f103"; }
+.geoblacklight-image:before { content: "\f10a"; }
+.geoblacklight-line:before { content: "\f108"; }
+.geoblacklight-massgis:before { content: "\f106"; }
+.geoblacklight-minnesota:before { content: "\f116"; }
+.geoblacklight-mit:before { content: "\f104"; }
+.geoblacklight-mixed:before { content: "\f11a"; }
+.geoblacklight-multipoint:before { content: "\f119"; }
+.geoblacklight-paper-map:before { content: "\f110"; }
+.geoblacklight-point:before { content: "\f109"; }
+.geoblacklight-polygon:before { content: "\f107"; }
+.geoblacklight-polyline:before { content: "\f118"; }
+.geoblacklight-princeton:before { content: "\f111"; }
+.geoblacklight-raster:before { content: "\f10d"; }
+.geoblacklight-stanford:before { content: "\f102"; }
+.geoblacklight-tufts:before { content: "\f105"; }
+.geoblacklight-ucla:before { content: "\f117"; }
+.geoblacklight-uva:before { content: "\f11b"; }

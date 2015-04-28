@@ -4,7 +4,7 @@
 #   `fontcustom help` or visiting <http://fontcustom.com>.
 # --------------------------------------------------------------------------- #
 
-font_name: geoblacklight
+font_name: geoblacklight-icons
 css_selector: .geoblacklight-{{glyph}}
 preprocessor_path: ""
 autowidth: false
@@ -27,7 +27,7 @@ input:
 output:
   fonts: app/assets/fonts                              # required
   css: app/assets/stylesheets
-  preview: app/views/styleguide
+  preview: docs/styleguide
 
 # --------------------------------------------------------------------------- #
 # Templates
@@ -37,5 +37,6 @@ output:
 # --------------------------------------------------------------------------- #
 
 templates:
+ - scss-rails
  - scss
  - preview

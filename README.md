@@ -1,8 +1,32 @@
+# Geoblacklight-Icons
+
 Icon font set to be used with GeoBlacklight.
 
 Built using [FontCustom](https://github.com/FontCustom/fontcustom/)
 
 [Check out the icons](http://geoblacklight.org/geoblacklight-icons/app/views/styleguide/geoblacklight-preview.html)
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'geoblacklight-icons'
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install geoblacklight-icons
+
+For Rails applications, import the SCSS
+
+```scss
+  @import 'geoblacklight-icons-rails';
+```
 
 ## Rebuilding fonts
 
@@ -13,7 +37,7 @@ Run a webserver like python's SimpleHTTPServer
 
 `$ python -m SimpleHTTPServer`
 
-Checkout the updated font previews: [http://127.0.0.1:8000/app/views/styleguide/geoblacklight-preview.html](http://127.0.0.1:8000/app/views/styleguide/geoblacklight-preview.html)
+Checkout the updated font previews: [http://127.0.0.1:8000/docs/geoblacklight-preview.html](http://127.0.0.1:8000/app/views/styleguide/geoblacklight-preview.html)
 
 ## Contributing
 
