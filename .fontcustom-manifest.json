@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "cae243ad4c5c8d5a8edb73a75fbc99c23b2b5fb9f131b5dde9d62276a3e69ad6",
-    "current": "cae243ad4c5c8d5a8edb73a75fbc99c23b2b5fb9f131b5dde9d62276a3e69ad6"
+    "previous": "8bfbb045da985dcef948b9aaed5a70c6ac4580ed9cce52de10f18db6f8decc68",
+    "current": "8bfbb045da985dcef948b9aaed5a70c6ac4580ed9cce52de10f18db6f8decc68"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
@@ -57,6 +57,10 @@
     "multipoint": {
       "codepoint": 61721,
       "source": "graphics/multipoint.svg"
+    },
+    "nyu": {
+      "codepoint": 61724,
+      "source": "graphics/nyu.svg"
     },
     "paper-map": {
       "codepoint": 61712,
