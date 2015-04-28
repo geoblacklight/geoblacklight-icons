@@ -4,7 +4,7 @@ Icon font set to be used with GeoBlacklight.
 
 Built using [FontCustom](https://github.com/FontCustom/fontcustom/)
 
-[Check out the icons](http://geoblacklight.org/geoblacklight-icons/app/views/styleguide/geoblacklight-preview.html)
+[Check out the icons](http://geoblacklight.org/geoblacklight-icons/docs/styleguide/geoblacklight-icons-preview.html)
 
 ## Installation
 
