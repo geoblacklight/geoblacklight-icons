@@ -1,30 +1,32 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2014-12-18: Created.
+2015-4-28: Created with FontForge (http://fontforge.org)
 -->
-<svg xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20120731 at Thu Dec 18 20:14:24 2014
+Created by FontForge 20150302 at Tue Apr 28 10:52:02 2015
  By Jack Reed
-Created by Jack Reed with FontForge 2.0 (http://fontforge.sf.net)
+Copyright (c) 2015, Jack Reed
 </metadata>
 <defs>
-<font id="geoblacklight" horiz-adv-x="512" >
+<font id="geoblacklight-icons" horiz-adv-x="512" >
   <font-face 
-    font-family="geoblacklight"
+    font-family="geoblacklight-icons"
     font-weight="900"
     font-stretch="normal"
     units-per-em="512"
-    panose-1="2 0 10 9 0 0 0 0 0 0"
+    panose-1="2 0 10 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
     bbox="-0.12793 -82.7842 512.128 487.36"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F101-F11B"
+    unicode-range="U+0020-F11B"
   />
     <missing-glyph />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
+ />
     <glyph glyph-name="uniF109" unicode="&#xf109;" 
 d="M323.564 341.075c0 20.1901 -7.1429 37.4281 -21.4287 51.7139s-31.5241 21.4287 -51.7148 21.4287c-20.1901 0 -37.4281 -7.1429 -51.7139 -21.4287s-21.4287 -31.5238 -21.4287 -51.7139c0 -20.1908 7.1429 -37.429 21.4287 -51.7148
 c14.2858 -14.2852 31.5238 -21.4277 51.7139 -21.4277c20.1908 0 37.429 7.14258 51.7148 21.4277c14.2858 14.2858 21.4287 31.5241 21.4287 51.7148zM396.707 341.075c0 -20.7617 -3.1429 -37.8092 -9.42871 -51.1426l-104 -221.144
