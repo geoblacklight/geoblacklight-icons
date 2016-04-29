@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8bfbb045da985dcef948b9aaed5a70c6ac4580ed9cce52de10f18db6f8decc68",
-    "current": "8bfbb045da985dcef948b9aaed5a70c6ac4580ed9cce52de10f18db6f8decc68"
+    "previous": "aa50c4d1b0d1806f946ae55966f49f2369466ade6d23d51e57533c20413bb98d",
+    "current": "aa50c4d1b0d1806f946ae55966f49f2369466ade6d23d51e57533c20413bb98d"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
@@ -10,6 +10,10 @@
     "app/assets/fonts/geoblacklight-icons.eot"
   ],
   "glyphs": {
+    "baruch-cuny": {
+      "codepoint": 61725,
+      "source": "graphics/baruch-cuny.svg"
+    },
     "berkeley": {
       "codepoint": 61697,
       "source": "graphics/berkeley.svg"
