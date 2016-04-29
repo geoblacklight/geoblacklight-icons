@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-4-28: Created with FontForge (http://fontforge.org)
+2016-4-29: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150302 at Tue Apr 28 11:07:50 2015
+Created by FontForge 20150828 at Fri Apr 29 09:29:25 2016
  By Jack Reed
-Copyright (c) 2015, Jack Reed
+Copyright (c) 2016, Jack Reed
 </metadata>
 <defs>
 <font id="geoblacklight-icons" horiz-adv-x="512" >
@@ -22,7 +22,7 @@ Copyright (c) 2015, Jack Reed
     bbox="-0.12793 -82.7842 512.128 487.36"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F11C"
+    unicode-range="U+0020-F11D"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -197,5 +197,9 @@ c-4.29199 -12.79 -21.71 -29.959 -36.999 -27.5352c-7.9375 -13.6855 -13.1699 -28.7
 c23.498 -23.4932 54.748 -36.4355 87.9727 -36.4355c33.2295 0 64.4736 12.9424 87.9668 36.4355h-0.0117188v-0.00390625z" />
     <glyph glyph-name="uniF110" unicode="&#xf110;" 
 d="M0 448zM0 352l160 64v-384l-160 -64v384zM352 352v-384l-160 53.3281v384zM512 416v-384l-128 -51.2002v384z" />
+    <glyph glyph-name="uniF11D" unicode="&#xf11d;" 
+d="M458.636 83.792c0 0 19.5127 -136.968 -126.624 -143.74c0 0 -271.552 -1.5918 -278.72 -1.5918c0 0 23.8916 7.56836 28.668 47.3838c0 0 -3.18359 407.332 -4.77637 418.084c0 0 0.396484 26.2803 -24.6875 40.2158c0 0 257.62 4.37598 279.128 -2.3916
+c0 0 82.0195 -10.3477 79.6318 -98.7441c0 -12.7441 -8.75977 -64.9043 -107.508 -123.036c0 0 139.364 -17.124 154.888 -136.18zM275.476 -34.46c86.8047 10.3516 75.6562 97.5479 75.6562 97.5439c-7.17188 125.028 -106.712 148.124 -113.88 149.716h-0.400391h0.400391
+s78.0439 62.9121 78.0439 113.88c0 0 8.75977 93.5723 -84.0156 93.5723c0 0 -44.5967 1.19629 -43.7998 -32.252l1.5918 -152.896s-2.38867 -192.315 0.795898 -237.712c3.1875 -45.3916 85.6074 -31.8516 85.6074 -31.8516z" />
   </font>
 </defs></svg>

@@ -23,6 +23,7 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.geoblacklight-baruch-cuny:before,
 .geoblacklight-berkeley:before,
 .geoblacklight-cd-rom:before,
 .geoblacklight-columbia:before,
@@ -60,6 +61,7 @@
   font-smoothing: antialiased;
 }
 
+.geoblacklight-baruch-cuny:before { content: "\f11d"; }
 .geoblacklight-berkeley:before { content: "\f101"; }
 .geoblacklight-cd-rom:before { content: "\f112"; }
 .geoblacklight-columbia:before { content: "\f115"; }

@@ -23,6 +23,7 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.geoblacklight-baruch-cuny:before,
 .geoblacklight-berkeley:before,
 .geoblacklight-cd-rom:before,
 .geoblacklight-columbia:before,
@@ -60,6 +61,7 @@
   font-smoothing: antialiased;
 }
 
+.geoblacklight-baruch-cuny:before { content: "\f11d"; }
 .geoblacklight-berkeley:before { content: "\f101"; }
 .geoblacklight-cd-rom:before { content: "\f112"; }
 .geoblacklight-columbia:before { content: "\f115"; }
@@ -84,6 +86,7 @@
 .geoblacklight-ucla:before { content: "\f117"; }
 .geoblacklight-uva:before { content: "\f11b"; }
 
+$font-geoblacklight-icons-baruch-cuny: "\f11d";
 $font-geoblacklight-icons-berkeley: "\f101";
 $font-geoblacklight-icons-cd-rom: "\f112";
 $font-geoblacklight-icons-columbia: "\f115";
