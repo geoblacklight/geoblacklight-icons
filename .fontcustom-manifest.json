@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "aa50c4d1b0d1806f946ae55966f49f2369466ade6d23d51e57533c20413bb98d",
-    "current": "aa50c4d1b0d1806f946ae55966f49f2369466ade6d23d51e57533c20413bb98d"
+    "previous": "c816468cea091f5accc2093a32fdff9fa12139f88ecd0451df06e353d4f2aef4",
+    "current": "c816468cea091f5accc2093a32fdff9fa12139f88ecd0451df06e353d4f2aef4"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
@@ -11,7 +11,7 @@
   ],
   "glyphs": {
     "baruch-cuny": {
-      "codepoint": 61725,
+      "codepoint": 61696,
       "source": "graphics/baruch-cuny.svg"
     },
     "berkeley": {
@@ -19,92 +19,124 @@
       "source": "graphics/berkeley.svg"
     },
     "cd-rom": {
-      "codepoint": 61714,
+      "codepoint": 61698,
       "source": "graphics/cd-rom.svg"
     },
     "columbia": {
-      "codepoint": 61717,
+      "codepoint": 61699,
       "source": "graphics/columbia.svg"
     },
     "dvd-rom": {
-      "codepoint": 61715,
+      "codepoint": 61700,
       "source": "graphics/dvd-rom.svg"
     },
     "harvard": {
-      "codepoint": 61699,
+      "codepoint": 61701,
       "source": "graphics/harvard.svg"
     },
+    "illinois": {
+      "codepoint": 61702,
+      "source": "graphics/illinois.svg"
+    },
     "image": {
-      "codepoint": 61706,
+      "codepoint": 61703,
       "source": "graphics/image.svg"
     },
-    "line": {
+    "iowa": {
       "codepoint": 61704,
+      "source": "graphics/iowa.svg"
+    },
+    "line": {
+      "codepoint": 61705,
       "source": "graphics/line.svg"
     },
+    "maryland": {
+      "codepoint": 61738,
+      "source": "graphics/maryland.svg"
+    },
     "massgis": {
-      "codepoint": 61702,
+      "codepoint": 61707,
       "source": "graphics/massgis.svg"
     },
+    "michigan": {
+      "codepoint": 61708,
+      "source": "graphics/michigan.svg"
+    },
+    "michigan-state": {
+      "codepoint": 61709,
+      "source": "graphics/michigan-state.svg"
+    },
     "minnesota": {
-      "codepoint": 61718,
+      "codepoint": 61710,
       "source": "graphics/minnesota.svg"
     },
     "mit": {
-      "codepoint": 61700,
+      "codepoint": 61711,
       "source": "graphics/mit.svg"
     },
     "mixed": {
-      "codepoint": 61722,
+      "codepoint": 61712,
       "source": "graphics/mixed.svg"
     },
     "multipoint": {
-      "codepoint": 61721,
+      "codepoint": 61713,
       "source": "graphics/multipoint.svg"
     },
     "nyu": {
-      "codepoint": 61724,
+      "codepoint": 61714,
       "source": "graphics/nyu.svg"
     },
     "paper-map": {
-      "codepoint": 61712,
+      "codepoint": 61715,
       "source": "graphics/paper-map.svg"
     },
+    "pennstate": {
+      "codepoint": 61716,
+      "source": "graphics/pennstate.svg"
+    },
     "point": {
-      "codepoint": 61705,
+      "codepoint": 61717,
       "source": "graphics/point.svg"
     },
     "polygon": {
-      "codepoint": 61703,
+      "codepoint": 61718,
       "source": "graphics/polygon.svg"
     },
     "polyline": {
-      "codepoint": 61720,
+      "codepoint": 61719,
       "source": "graphics/polyline.svg"
     },
     "princeton": {
-      "codepoint": 61713,
+      "codepoint": 61720,
       "source": "graphics/princeton.svg"
     },
+    "purdue": {
+      "codepoint": 61721,
+      "source": "graphics/purdue.svg"
+    },
     "raster": {
-      "codepoint": 61709,
+      "codepoint": 61722,
       "source": "graphics/raster.svg"
     },
     "stanford": {
-      "codepoint": 61698,
+      "codepoint": 61723,
       "source": "graphics/stanford.svg"
     },
     "tufts": {
-      "codepoint": 61701,
+      "codepoint": 61724,
       "source": "graphics/tufts.svg"
     },
     "ucla": {
-      "codepoint": 61719,
+      "codepoint": 61725,
       "source": "graphics/ucla.svg"
     },
     "uva": {
-      "codepoint": 61723,
+      "codepoint": 61726,
       "source": "graphics/uva.svg"
+    },
+    "wisconsin": {
+      "codepoint": 61727,
+      "source": "graphics/wisconsin.svg"
     }
   },
   "options": {

@@ -29,24 +29,32 @@
 .geoblacklight-columbia:before,
 .geoblacklight-dvd-rom:before,
 .geoblacklight-harvard:before,
+.geoblacklight-illinois:before,
 .geoblacklight-image:before,
+.geoblacklight-iowa:before,
 .geoblacklight-line:before,
+.geoblacklight-maryland:before,
 .geoblacklight-massgis:before,
+.geoblacklight-michigan:before,
+.geoblacklight-michigan-state:before,
 .geoblacklight-minnesota:before,
 .geoblacklight-mit:before,
 .geoblacklight-mixed:before,
 .geoblacklight-multipoint:before,
 .geoblacklight-nyu:before,
 .geoblacklight-paper-map:before,
+.geoblacklight-pennstate:before,
 .geoblacklight-point:before,
 .geoblacklight-polygon:before,
 .geoblacklight-polyline:before,
 .geoblacklight-princeton:before,
+.geoblacklight-purdue:before,
 .geoblacklight-raster:before,
 .geoblacklight-stanford:before,
 .geoblacklight-tufts:before,
 .geoblacklight-ucla:before,
-.geoblacklight-uva:before {
+.geoblacklight-uva:before,
+.geoblacklight-wisconsin:before {
   display: inline-block;
   font-family: "geoblacklight-icons";
   font-style: normal;
@@ -61,52 +69,68 @@
   font-smoothing: antialiased;
 }
 
-.geoblacklight-baruch-cuny:before { content: "\f11d"; }
+.geoblacklight-baruch-cuny:before { content: "\f100"; }
 .geoblacklight-berkeley:before { content: "\f101"; }
-.geoblacklight-cd-rom:before { content: "\f112"; }
-.geoblacklight-columbia:before { content: "\f115"; }
-.geoblacklight-dvd-rom:before { content: "\f113"; }
-.geoblacklight-harvard:before { content: "\f103"; }
-.geoblacklight-image:before { content: "\f10a"; }
-.geoblacklight-line:before { content: "\f108"; }
-.geoblacklight-massgis:before { content: "\f106"; }
-.geoblacklight-minnesota:before { content: "\f116"; }
-.geoblacklight-mit:before { content: "\f104"; }
-.geoblacklight-mixed:before { content: "\f11a"; }
-.geoblacklight-multipoint:before { content: "\f119"; }
-.geoblacklight-nyu:before { content: "\f11c"; }
-.geoblacklight-paper-map:before { content: "\f110"; }
-.geoblacklight-point:before { content: "\f109"; }
-.geoblacklight-polygon:before { content: "\f107"; }
-.geoblacklight-polyline:before { content: "\f118"; }
-.geoblacklight-princeton:before { content: "\f111"; }
-.geoblacklight-raster:before { content: "\f10d"; }
-.geoblacklight-stanford:before { content: "\f102"; }
-.geoblacklight-tufts:before { content: "\f105"; }
-.geoblacklight-ucla:before { content: "\f117"; }
-.geoblacklight-uva:before { content: "\f11b"; }
+.geoblacklight-cd-rom:before { content: "\f102"; }
+.geoblacklight-columbia:before { content: "\f103"; }
+.geoblacklight-dvd-rom:before { content: "\f104"; }
+.geoblacklight-harvard:before { content: "\f105"; }
+.geoblacklight-illinois:before { content: "\f106"; }
+.geoblacklight-image:before { content: "\f107"; }
+.geoblacklight-iowa:before { content: "\f108"; }
+.geoblacklight-line:before { content: "\f109"; }
+.geoblacklight-maryland:before { content: "\f12a"; }
+.geoblacklight-massgis:before { content: "\f10b"; }
+.geoblacklight-michigan:before { content: "\f10c"; }
+.geoblacklight-michigan-state:before { content: "\f10d"; }
+.geoblacklight-minnesota:before { content: "\f10e"; }
+.geoblacklight-mit:before { content: "\f10f"; }
+.geoblacklight-mixed:before { content: "\f110"; }
+.geoblacklight-multipoint:before { content: "\f111"; }
+.geoblacklight-nyu:before { content: "\f112"; }
+.geoblacklight-paper-map:before { content: "\f113"; }
+.geoblacklight-pennstate:before { content: "\f114"; }
+.geoblacklight-point:before { content: "\f115"; }
+.geoblacklight-polygon:before { content: "\f116"; }
+.geoblacklight-polyline:before { content: "\f117"; }
+.geoblacklight-princeton:before { content: "\f118"; }
+.geoblacklight-purdue:before { content: "\f119"; }
+.geoblacklight-raster:before { content: "\f11a"; }
+.geoblacklight-stanford:before { content: "\f11b"; }
+.geoblacklight-tufts:before { content: "\f11c"; }
+.geoblacklight-ucla:before { content: "\f11d"; }
+.geoblacklight-uva:before { content: "\f11e"; }
+.geoblacklight-wisconsin:before { content: "\f11f"; }
 
-$font-geoblacklight-icons-baruch-cuny: "\f11d";
+$font-geoblacklight-icons-baruch-cuny: "\f100";
 $font-geoblacklight-icons-berkeley: "\f101";
-$font-geoblacklight-icons-cd-rom: "\f112";
-$font-geoblacklight-icons-columbia: "\f115";
-$font-geoblacklight-icons-dvd-rom: "\f113";
-$font-geoblacklight-icons-harvard: "\f103";
-$font-geoblacklight-icons-image: "\f10a";
-$font-geoblacklight-icons-line: "\f108";
-$font-geoblacklight-icons-massgis: "\f106";
-$font-geoblacklight-icons-minnesota: "\f116";
-$font-geoblacklight-icons-mit: "\f104";
-$font-geoblacklight-icons-mixed: "\f11a";
-$font-geoblacklight-icons-multipoint: "\f119";
-$font-geoblacklight-icons-nyu: "\f11c";
-$font-geoblacklight-icons-paper-map: "\f110";
-$font-geoblacklight-icons-point: "\f109";
-$font-geoblacklight-icons-polygon: "\f107";
-$font-geoblacklight-icons-polyline: "\f118";
-$font-geoblacklight-icons-princeton: "\f111";
-$font-geoblacklight-icons-raster: "\f10d";
-$font-geoblacklight-icons-stanford: "\f102";
-$font-geoblacklight-icons-tufts: "\f105";
-$font-geoblacklight-icons-ucla: "\f117";
-$font-geoblacklight-icons-uva: "\f11b";
+$font-geoblacklight-icons-cd-rom: "\f102";
+$font-geoblacklight-icons-columbia: "\f103";
+$font-geoblacklight-icons-dvd-rom: "\f104";
+$font-geoblacklight-icons-harvard: "\f105";
+$font-geoblacklight-icons-illinois: "\f106";
+$font-geoblacklight-icons-image: "\f107";
+$font-geoblacklight-icons-iowa: "\f108";
+$font-geoblacklight-icons-line: "\f109";
+$font-geoblacklight-icons-maryland: "\f12a";
+$font-geoblacklight-icons-massgis: "\f10b";
+$font-geoblacklight-icons-michigan: "\f10c";
+$font-geoblacklight-icons-michigan-state: "\f10d";
+$font-geoblacklight-icons-minnesota: "\f10e";
+$font-geoblacklight-icons-mit: "\f10f";
+$font-geoblacklight-icons-mixed: "\f110";
+$font-geoblacklight-icons-multipoint: "\f111";
+$font-geoblacklight-icons-nyu: "\f112";
+$font-geoblacklight-icons-paper-map: "\f113";
+$font-geoblacklight-icons-pennstate: "\f114";
+$font-geoblacklight-icons-point: "\f115";
+$font-geoblacklight-icons-polygon: "\f116";
+$font-geoblacklight-icons-polyline: "\f117";
+$font-geoblacklight-icons-princeton: "\f118";
+$font-geoblacklight-icons-purdue: "\f119";
+$font-geoblacklight-icons-raster: "\f11a";
+$font-geoblacklight-icons-stanford: "\f11b";
+$font-geoblacklight-icons-tufts: "\f11c";
+$font-geoblacklight-icons-ucla: "\f11d";
+$font-geoblacklight-icons-uva: "\f11e";
+$font-geoblacklight-icons-wisconsin: "\f11f";
