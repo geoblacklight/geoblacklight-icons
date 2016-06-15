@@ -29,24 +29,32 @@
 .geoblacklight-columbia:before,
 .geoblacklight-dvd-rom:before,
 .geoblacklight-harvard:before,
+.geoblacklight-illinois:before,
 .geoblacklight-image:before,
+.geoblacklight-iowa:before,
 .geoblacklight-line:before,
+.geoblacklight-maryland:before,
 .geoblacklight-massgis:before,
+.geoblacklight-michigan:before,
+.geoblacklight-michigan-state:before,
 .geoblacklight-minnesota:before,
 .geoblacklight-mit:before,
 .geoblacklight-mixed:before,
 .geoblacklight-multipoint:before,
 .geoblacklight-nyu:before,
 .geoblacklight-paper-map:before,
+.geoblacklight-pennstate:before,
 .geoblacklight-point:before,
 .geoblacklight-polygon:before,
 .geoblacklight-polyline:before,
 .geoblacklight-princeton:before,
+.geoblacklight-purdue:before,
 .geoblacklight-raster:before,
 .geoblacklight-stanford:before,
 .geoblacklight-tufts:before,
 .geoblacklight-ucla:before,
-.geoblacklight-uva:before {
+.geoblacklight-uva:before,
+.geoblacklight-wisconsin:before {
   display: inline-block;
   font-family: "geoblacklight-icons";
   font-style: normal;
@@ -61,27 +69,35 @@
   font-smoothing: antialiased;
 }
 
-.geoblacklight-baruch-cuny:before { content: "\f11d"; }
+.geoblacklight-baruch-cuny:before { content: "\f100"; }
 .geoblacklight-berkeley:before { content: "\f101"; }
-.geoblacklight-cd-rom:before { content: "\f112"; }
-.geoblacklight-columbia:before { content: "\f115"; }
-.geoblacklight-dvd-rom:before { content: "\f113"; }
-.geoblacklight-harvard:before { content: "\f103"; }
-.geoblacklight-image:before { content: "\f10a"; }
-.geoblacklight-line:before { content: "\f108"; }
-.geoblacklight-massgis:before { content: "\f106"; }
-.geoblacklight-minnesota:before { content: "\f116"; }
-.geoblacklight-mit:before { content: "\f104"; }
-.geoblacklight-mixed:before { content: "\f11a"; }
-.geoblacklight-multipoint:before { content: "\f119"; }
-.geoblacklight-nyu:before { content: "\f11c"; }
-.geoblacklight-paper-map:before { content: "\f110"; }
-.geoblacklight-point:before { content: "\f109"; }
-.geoblacklight-polygon:before { content: "\f107"; }
-.geoblacklight-polyline:before { content: "\f118"; }
-.geoblacklight-princeton:before { content: "\f111"; }
-.geoblacklight-raster:before { content: "\f10d"; }
-.geoblacklight-stanford:before { content: "\f102"; }
-.geoblacklight-tufts:before { content: "\f105"; }
-.geoblacklight-ucla:before { content: "\f117"; }
-.geoblacklight-uva:before { content: "\f11b"; }
+.geoblacklight-cd-rom:before { content: "\f102"; }
+.geoblacklight-columbia:before { content: "\f103"; }
+.geoblacklight-dvd-rom:before { content: "\f104"; }
+.geoblacklight-harvard:before { content: "\f105"; }
+.geoblacklight-illinois:before { content: "\f106"; }
+.geoblacklight-image:before { content: "\f107"; }
+.geoblacklight-iowa:before { content: "\f108"; }
+.geoblacklight-line:before { content: "\f109"; }
+.geoblacklight-maryland:before { content: "\f12a"; }
+.geoblacklight-massgis:before { content: "\f10b"; }
+.geoblacklight-michigan:before { content: "\f10c"; }
+.geoblacklight-michigan-state:before { content: "\f10d"; }
+.geoblacklight-minnesota:before { content: "\f10e"; }
+.geoblacklight-mit:before { content: "\f10f"; }
+.geoblacklight-mixed:before { content: "\f110"; }
+.geoblacklight-multipoint:before { content: "\f111"; }
+.geoblacklight-nyu:before { content: "\f112"; }
+.geoblacklight-paper-map:before { content: "\f113"; }
+.geoblacklight-pennstate:before { content: "\f114"; }
+.geoblacklight-point:before { content: "\f115"; }
+.geoblacklight-polygon:before { content: "\f116"; }
+.geoblacklight-polyline:before { content: "\f117"; }
+.geoblacklight-princeton:before { content: "\f118"; }
+.geoblacklight-purdue:before { content: "\f119"; }
+.geoblacklight-raster:before { content: "\f11a"; }
+.geoblacklight-stanford:before { content: "\f11b"; }
+.geoblacklight-tufts:before { content: "\f11c"; }
+.geoblacklight-ucla:before { content: "\f11d"; }
+.geoblacklight-uva:before { content: "\f11e"; }
+.geoblacklight-wisconsin:before { content: "\f11f"; }
