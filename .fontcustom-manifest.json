@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c816468cea091f5accc2093a32fdff9fa12139f88ecd0451df06e353d4f2aef4",
-    "current": "c816468cea091f5accc2093a32fdff9fa12139f88ecd0451df06e353d4f2aef4"
+    "previous": "0ab11e8802132b420c7f2a4ef4b996a14dd149c630b199930893c89beee22163",
+    "current": "0ab11e8802132b420c7f2a4ef4b996a14dd149c630b199930893c89beee22163"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
@@ -90,9 +90,9 @@
       "codepoint": 61715,
       "source": "graphics/paper-map.svg"
     },
-    "pennstate": {
-      "codepoint": 61716,
-      "source": "graphics/pennstate.svg"
+    "penn-state": {
+      "codepoint": 61739,
+      "source": "graphics/penn-state.svg"
     },
     "point": {
       "codepoint": 61717,
