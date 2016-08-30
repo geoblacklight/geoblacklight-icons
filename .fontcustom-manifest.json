@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "289ac6d7fbc0f33d738cceaf2ce1051d6673e9e78ce5e439f739222f5a8b897c",
-    "current": "289ac6d7fbc0f33d738cceaf2ce1051d6673e9e78ce5e439f739222f5a8b897c"
+    "previous": "db2facc815a5c2ec72bc4fc769ced4415994d7df31f3f19db64b5809bd7a10c1",
+    "current": "db2facc815a5c2ec72bc4fc769ced4415994d7df31f3f19db64b5809bd7a10c1"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
@@ -46,9 +46,9 @@
       "codepoint": 61704,
       "source": "graphics/iowa.svg"
     },
-    "lclark": {
-      "codepoint": 61740,
-      "source": "graphics/lclark.svg"
+    "lewis-clark": {
+      "codepoint": 61741,
+      "source": "graphics/lewis-clark.svg"
     },
     "line": {
       "codepoint": 61705,
