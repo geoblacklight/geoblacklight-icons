@@ -31,6 +31,7 @@
 .geoblacklight-harvard:before,
 .geoblacklight-illinois:before,
 .geoblacklight-image:before,
+.geoblacklight-indiana:before,
 .geoblacklight-iowa:before,
 .geoblacklight-lewis-clark:before,
 .geoblacklight-line:before,
@@ -78,6 +79,7 @@
 .geoblacklight-harvard:before { content: "\f105"; }
 .geoblacklight-illinois:before { content: "\f106"; }
 .geoblacklight-image:before { content: "\f107"; }
+.geoblacklight-indiana:before { content: "\f12e"; }
 .geoblacklight-iowa:before { content: "\f108"; }
 .geoblacklight-lewis-clark:before { content: "\f12d"; }
 .geoblacklight-line:before { content: "\f109"; }
@@ -112,6 +114,7 @@ $font-geoblacklight-icons-dvd-rom: "\f104";
 $font-geoblacklight-icons-harvard: "\f105";
 $font-geoblacklight-icons-illinois: "\f106";
 $font-geoblacklight-icons-image: "\f107";
+$font-geoblacklight-icons-indiana: "\f12e";
 $font-geoblacklight-icons-iowa: "\f108";
 $font-geoblacklight-icons-lewis-clark: "\f12d";
 $font-geoblacklight-icons-line: "\f109";
