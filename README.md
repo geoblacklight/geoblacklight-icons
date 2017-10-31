@@ -37,7 +37,7 @@ Run a webserver like python's SimpleHTTPServer
 
 `$ python -m SimpleHTTPServer`
 
-Checkout the updated font previews: [http://127.0.0.1:8000/docs/geoblacklight-preview.html](http://127.0.0.1:8000/app/views/styleguide/geoblacklight-preview.html)
+Checkout the updated font previews: [http://127.0.0.1:8000/docs/styleguide/geoblacklight-icons-preview.html](http://127.0.0.1:8000/docs/styleguide/geoblacklight-icons-preview.html)
 
 ## Contributing
 
