@@ -26,6 +26,7 @@
 .geoblacklight-baruch-cuny:before,
 .geoblacklight-berkeley:before,
 .geoblacklight-cd-rom:before,
+.geoblacklight-chicago:before,
 .geoblacklight-columbia:before,
 .geoblacklight-dvd-rom:before,
 .geoblacklight-harvard:before,
@@ -44,6 +45,7 @@
 .geoblacklight-mixed:before,
 .geoblacklight-multipoint:before,
 .geoblacklight-nyu:before,
+.geoblacklight-ohio:before,
 .geoblacklight-paper-map:before,
 .geoblacklight-penn-state:before,
 .geoblacklight-point:before,
@@ -74,6 +76,7 @@
 .geoblacklight-baruch-cuny:before { content: "\f100"; }
 .geoblacklight-berkeley:before { content: "\f101"; }
 .geoblacklight-cd-rom:before { content: "\f102"; }
+.geoblacklight-chicago:before { content: "\f12f"; }
 .geoblacklight-columbia:before { content: "\f103"; }
 .geoblacklight-dvd-rom:before { content: "\f104"; }
 .geoblacklight-harvard:before { content: "\f105"; }
@@ -92,6 +95,7 @@
 .geoblacklight-mixed:before { content: "\f110"; }
 .geoblacklight-multipoint:before { content: "\f111"; }
 .geoblacklight-nyu:before { content: "\f112"; }
+.geoblacklight-ohio:before { content: "\f130"; }
 .geoblacklight-paper-map:before { content: "\f113"; }
 .geoblacklight-penn-state:before { content: "\f12b"; }
 .geoblacklight-point:before { content: "\f115"; }
@@ -109,6 +113,7 @@
 $font-geoblacklight-icons-baruch-cuny: "\f100";
 $font-geoblacklight-icons-berkeley: "\f101";
 $font-geoblacklight-icons-cd-rom: "\f102";
+$font-geoblacklight-icons-chicago: "\f12f";
 $font-geoblacklight-icons-columbia: "\f103";
 $font-geoblacklight-icons-dvd-rom: "\f104";
 $font-geoblacklight-icons-harvard: "\f105";
@@ -127,6 +132,7 @@ $font-geoblacklight-icons-mit: "\f10f";
 $font-geoblacklight-icons-mixed: "\f110";
 $font-geoblacklight-icons-multipoint: "\f111";
 $font-geoblacklight-icons-nyu: "\f112";
+$font-geoblacklight-icons-ohio: "\f130";
 $font-geoblacklight-icons-paper-map: "\f113";
 $font-geoblacklight-icons-penn-state: "\f12b";
 $font-geoblacklight-icons-point: "\f115";

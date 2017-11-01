@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "42aeffeb8a584e04cb2c8a30e896546af1d4cb1d4b9ecf3537fb942b825be674",
-    "current": "42aeffeb8a584e04cb2c8a30e896546af1d4cb1d4b9ecf3537fb942b825be674"
+    "previous": "99c2d4637ba7d4055a9123cea06484ab13a2e9b66778b71aa9ae344f5c40ecfc",
+    "current": "99c2d4637ba7d4055a9123cea06484ab13a2e9b66778b71aa9ae344f5c40ecfc"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
@@ -21,6 +21,10 @@
     "cd-rom": {
       "codepoint": 61698,
       "source": "graphics/cd-rom.svg"
+    },
+    "chicago": {
+      "codepoint": 61743,
+      "source": "graphics/chicago.svg"
     },
     "columbia": {
       "codepoint": 61699,
@@ -93,6 +97,10 @@
     "nyu": {
       "codepoint": 61714,
       "source": "graphics/nyu.svg"
+    },
+    "ohio": {
+      "codepoint": 61744,
+      "source": "graphics/ohio.svg"
     },
     "paper-map": {
       "codepoint": 61715,
