@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "99c2d4637ba7d4055a9123cea06484ab13a2e9b66778b71aa9ae344f5c40ecfc",
-    "current": "99c2d4637ba7d4055a9123cea06484ab13a2e9b66778b71aa9ae344f5c40ecfc"
+    "previous": "360625d5ac8f6b70d061b280f1f77c4bd3bf279a1c775d25a04fae8d5949fd25",
+    "current": "360625d5ac8f6b70d061b280f1f77c4bd3bf279a1c775d25a04fae8d5949fd25"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
     "app/assets/fonts/geoblacklight-icons.svg",
     "app/assets/fonts/geoblacklight-icons.woff",
-    "app/assets/fonts/geoblacklight-icons.eot"
+    "app/assets/fonts/geoblacklight-icons.eot",
+    "app/assets/fonts/geoblacklight-icons.woff2"
   ],
   "glyphs": {
     "baruch-cuny": {
@@ -90,9 +91,17 @@
       "codepoint": 61712,
       "source": "graphics/mixed.svg"
     },
+    "multilinestring": {
+      "codepoint": 61746,
+      "source": "graphics/multilinestring.svg"
+    },
     "multipoint": {
       "codepoint": 61713,
       "source": "graphics/multipoint.svg"
+    },
+    "multipolygon": {
+      "codepoint": 61745,
+      "source": "graphics/multipolygon.svg"
     },
     "nyu": {
       "codepoint": 61714,
@@ -138,6 +147,10 @@
       "codepoint": 61723,
       "source": "graphics/stanford.svg"
     },
+    "table": {
+      "codepoint": 61747,
+      "source": "graphics/table.svg"
+    },
     "tufts": {
       "codepoint": 61724,
       "source": "graphics/tufts.svg"
@@ -158,6 +171,8 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".geoblacklight-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

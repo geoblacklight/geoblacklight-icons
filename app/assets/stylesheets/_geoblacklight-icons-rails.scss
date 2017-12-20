@@ -6,6 +6,7 @@
   font-family: "geoblacklight-icons";
   src: font-url("geoblacklight-icons.eot");
   src: font-url("geoblacklight-icons.eot?#iefix") format("embedded-opentype"),
+       font-url("geoblacklight-icons.woff2") format("woff2"),
        font-url("geoblacklight-icons.woff") format("woff"),
        font-url("geoblacklight-icons.ttf") format("truetype"),
        font-url("geoblacklight-icons.svg#geoblacklight-icons") format("svg");
@@ -43,7 +44,9 @@
 .geoblacklight-minnesota:before,
 .geoblacklight-mit:before,
 .geoblacklight-mixed:before,
+.geoblacklight-multilinestring:before,
 .geoblacklight-multipoint:before,
+.geoblacklight-multipolygon:before,
 .geoblacklight-nyu:before,
 .geoblacklight-ohio:before,
 .geoblacklight-paper-map:before,
@@ -55,6 +58,7 @@
 .geoblacklight-purdue:before,
 .geoblacklight-raster:before,
 .geoblacklight-stanford:before,
+.geoblacklight-table:before,
 .geoblacklight-tufts:before,
 .geoblacklight-ucla:before,
 .geoblacklight-uva:before,
@@ -93,7 +97,9 @@
 .geoblacklight-minnesota:before { content: "\f10e"; }
 .geoblacklight-mit:before { content: "\f10f"; }
 .geoblacklight-mixed:before { content: "\f110"; }
+.geoblacklight-multilinestring:before { content: "\f132"; }
 .geoblacklight-multipoint:before { content: "\f111"; }
+.geoblacklight-multipolygon:before { content: "\f131"; }
 .geoblacklight-nyu:before { content: "\f112"; }
 .geoblacklight-ohio:before { content: "\f130"; }
 .geoblacklight-paper-map:before { content: "\f113"; }
@@ -105,6 +111,7 @@
 .geoblacklight-purdue:before { content: "\f119"; }
 .geoblacklight-raster:before { content: "\f11a"; }
 .geoblacklight-stanford:before { content: "\f11b"; }
+.geoblacklight-table:before { content: "\f133"; }
 .geoblacklight-tufts:before { content: "\f11c"; }
 .geoblacklight-ucla:before { content: "\f11d"; }
 .geoblacklight-uva:before { content: "\f11e"; }
