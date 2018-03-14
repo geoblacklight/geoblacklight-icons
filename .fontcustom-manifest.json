@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c106db101596f61fdfa72d1504d834ab993ceff70256d9fba7e69480e16b0d85",
-    "current": "c106db101596f61fdfa72d1504d834ab993ceff70256d9fba7e69480e16b0d85"
+    "previous": "d5d9a03876a368c5ea3b4fe12d87ac64b03dbdecc76a179e32ca8a1cddbb44a9",
+    "current": "d5d9a03876a368c5ea3b4fe12d87ac64b03dbdecc76a179e32ca8a1cddbb44a9"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
@@ -30,6 +30,10 @@
     "columbia": {
       "codepoint": 61699,
       "source": "graphics/columbia.svg"
+    },
+    "cornell": {
+      "codepoint": 61748,
+      "source": "graphics/cornell.svg"
     },
     "dvd-rom": {
       "codepoint": 61700,
