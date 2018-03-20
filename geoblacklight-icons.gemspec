@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'geoblacklight-icons'
   spec.version       = Geoblacklight::Icons::VERSION
   spec.authors       = ['Wayne Graham', 'Eliot Jordan', 'Jack Reed']
-  spec.email         = ['wayne.graham@virginia.edu', 'eliotj@princeton.edu', 'pjreed@stanford.edu']
+  spec.email         = ['wayne.graham@virginia.edu', 'eliotj@princeton.edu', 'pjreed@stanford.edu', 'ewlarson@gmail.com']
 
   spec.summary       = %q{A useful icon font set for geospatial applications.}
   spec.description   = %q{Icon font set to be used with GeoBlacklight or other Rails applications.}
