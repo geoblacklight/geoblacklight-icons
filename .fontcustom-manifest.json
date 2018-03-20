@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d5d9a03876a368c5ea3b4fe12d87ac64b03dbdecc76a179e32ca8a1cddbb44a9",
-    "current": "d5d9a03876a368c5ea3b4fe12d87ac64b03dbdecc76a179e32ca8a1cddbb44a9"
+    "previous": "1540c7321cdee74c2f284fd3ef14d8dbab4f436a2bfcc6e2c2ea3a23c9da6d86",
+    "current": "1540c7321cdee74c2f284fd3ef14d8dbab4f436a2bfcc6e2c2ea3a23c9da6d86"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
