@@ -111,9 +111,9 @@
       "codepoint": 61714,
       "source": "graphics/nyu.svg"
     },
-    "ohio": {
+    "ohio-state": {
       "codepoint": 61744,
-      "source": "graphics/ohio.svg"
+      "source": "graphics/ohio-state.svg"
     },
     "paper-map": {
       "codepoint": 61715,
