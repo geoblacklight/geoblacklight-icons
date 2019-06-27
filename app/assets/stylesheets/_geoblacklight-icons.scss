@@ -60,6 +60,7 @@
 .geoblacklight-raster:before,
 .geoblacklight-stanford:before,
 .geoblacklight-table:before,
+.geoblacklight-texas:before,
 .geoblacklight-tufts:before,
 .geoblacklight-ucla:before,
 .geoblacklight-uva:before,
@@ -114,6 +115,7 @@
 .geoblacklight-raster:before { content: "\f11a"; }
 .geoblacklight-stanford:before { content: "\f11b"; }
 .geoblacklight-table:before { content: "\f133"; }
+.geoblacklight-texas:before { content: "\f135"; }
 .geoblacklight-tufts:before { content: "\f11c"; }
 .geoblacklight-ucla:before { content: "\f11d"; }
 .geoblacklight-uva:before { content: "\f11e"; }
@@ -155,6 +157,7 @@ $font-geoblacklight-icons-purdue: "\f119";
 $font-geoblacklight-icons-raster: "\f11a";
 $font-geoblacklight-icons-stanford: "\f11b";
 $font-geoblacklight-icons-table: "\f133";
+$font-geoblacklight-icons-texas: "\f135";
 $font-geoblacklight-icons-tufts: "\f11c";
 $font-geoblacklight-icons-ucla: "\f11d";
 $font-geoblacklight-icons-uva: "\f11e";

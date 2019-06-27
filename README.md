@@ -30,8 +30,8 @@ For Rails applications, import the SCSS
 
 ## Rebuilding fonts
 
-Add svg to `graphics` directory. Rebuild font using: 
-`$ fontcustom compile`
+Add svg to `graphics` directory. Rebuild font using:
+`$ fontcustom compile graphics/ --font-name=geoblacklight-icons`
 
 Run a webserver like python's SimpleHTTPServer
 

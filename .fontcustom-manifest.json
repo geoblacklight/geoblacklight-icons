@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "1540c7321cdee74c2f284fd3ef14d8dbab4f436a2bfcc6e2c2ea3a23c9da6d86",
-    "current": "1540c7321cdee74c2f284fd3ef14d8dbab4f436a2bfcc6e2c2ea3a23c9da6d86"
+    "previous": "568b60e5b28a44a08f026bf2a2be5a6b0a7cd64d77afe22b7e117b7774a18652",
+    "current": "568b60e5b28a44a08f026bf2a2be5a6b0a7cd64d77afe22b7e117b7774a18652"
   },
   "fonts": [
     "app/assets/fonts/geoblacklight-icons.ttf",
@@ -155,6 +155,10 @@
       "codepoint": 61747,
       "source": "graphics/table.svg"
     },
+    "texas": {
+      "codepoint": 61749,
+      "source": "graphics/texas.svg"
+    },
     "tufts": {
       "codepoint": 61724,
       "source": "graphics/tufts.svg"
@@ -186,8 +190,8 @@
     "font_name": "geoblacklight-icons",
     "force": false,
     "input": {
-      "templates": "graphics",
-      "vectors": "graphics"
+      "templates": "graphics/",
+      "vectors": "graphics/"
     },
     "no_hash": true,
     "output": {
